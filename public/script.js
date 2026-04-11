@@ -247,6 +247,17 @@ const noticias = [
     url: "https://ge.globo.com/go/copa-do-mundo/noticia/2026/04/10/wilton-sampaio-vai-para-a-3a-copa-do-mundo-e-sonha-em-apitar-a-final-cereja-do-bolo.ghtml",
     data: "10/04/2026",
   },
+  {
+    tag: "Copa do Mundo",
+    cat: "copa",
+    emoji: "📖",
+    titulo: "Quando começa a vender o álbum da Copa? Guia completo 2026 com preços",
+    resumo:
+      "O álbum de figurinhas da Copa do Mundo da FIFA 2026 estará disponível a partir de 1º de maio para o público. A maior competição de futebol do planeta começa oficialmente no dia 11 de junho e acontecerá em três países: México, Canadá e Estados Unidos. Dessa forma, o álbum oficial do mundial terá 980 cromos, com 68 figurinhas especiais, além de contemplar as 48 seleções que estarão presentes no torneio deste ano. Para te ajudar a tirar as dúvidas relacionadas ao assunto, o TechTudo preparou um guia completo sobre o álbum da Copa do Mundo 2026. Confira.",
+    fonte: "TechTudo",
+    url: "https://www.techtudo.com.br/guia/2026/04/quando-comeca-a-vender-o-album-da-copa-guia-completo-2026-com-precos-edsoftwares.ghtml",
+    data: "10/04/2026",
+  },
 ];
 
 let filtroAtual = "todos";
