@@ -258,6 +258,17 @@ const noticias = [
     url: "https://www.techtudo.com.br/guia/2026/04/quando-comeca-a-vender-o-album-da-copa-guia-completo-2026-com-precos-edsoftwares.ghtml",
     data: "10/04/2026",
   },
+  {
+    tag: "Brasileirão",
+    cat: "brasil",
+    emoji: "💛",
+    titulo: "Riquelme faz dois, Brasil vence a Argentina no Sul-Americano Sub-17 e se classifica para a Copa",
+    resumo:
+      "A Seleção Brasileira Sub-17 venceu a Argentina por 3 a 0, com dois gols de Riquelme e um de Eduardo Conceição, na noite desta sexta-feira (10), no Estádio Ameliano Villeta, pela trceira rodada do Grupo B do Campeonato Sul-Americano da categoria, realizado no Paraguai.",
+    fonte: "Lance!",
+    url: "https://www.lance.com.br/selecao-brasileira/riquelme-faz-dois-brasil-vence-a-argentina-no-sul-americano-sub-17-e-se-classifica-para-a-copa.html",
+    data: "10/04/2026",
+  },
 ];
 
 let filtroAtual = "todos";
